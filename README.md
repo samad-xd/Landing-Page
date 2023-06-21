@@ -1,0 +1,1 @@
+Just a Landing Page from The Odin Project using only HTML and CSS
